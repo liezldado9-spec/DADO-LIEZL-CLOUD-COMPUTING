@@ -9,4 +9,4 @@
 
 ## Summary
 
-AWS, Microsoft Azure, and Google Cloud Platform provide similar basic cloud infrastructure services. All three offer computing resources for running virtual machines and applications, storage services for keeping data, and networking services for connecting cloud resources. They also support common operating systems such as Linux and Windows. The main difference is the name and implementation of the services offered by each provider.
+The basic cloud infrastructure services are similar across AWS, Microsoft Azure and Google Cloud Platform. All three provide computing services to run virtual machines and applications, storage to store data, and networking services to connect the cloud resources. They are also compatible with common operating systems (OS) like Linux and Windows. The main difference is the name and implementation of the services offered by each provider.
