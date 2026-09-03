@@ -29,3 +29,21 @@
 ### 4. Which would you personally choose and why?
 
 **I would personally choose Google Cloud because it has strong capabilities in AI, data analytics, and Kubernetes.** As an IT student, I think these technologies are useful for learning modern application development and cloud computing, especially for projects involving data and artificial intelligence.
+
+
+
+# Match Cloud Services
+
+## Cloud Service Equivalents
+
+| Service Category | AWS | Azure | GCP |
+| --- | --- | --- | --- |
+| Virtual Machine | Amazon EC2 | Azure Virtual Machines | Compute Engine |
+| Object Storage | Amazon S3 | Azure Blob Storage | Cloud Storage |
+| Identity Management | AWS IAM | Microsoft Entra ID | Google Cloud IAM |
+| SQL Database | Amazon RDS | Azure SQL Database | Cloud SQL |
+| Kubernetes | Amazon EKS | Azure Kubernetes Service (AKS) | Google Kubernetes Engine (GKE) |
+
+## Summary
+
+These services provide similar functions across AWS, Azure, and GCP. Amazon EC2, Azure Virtual Machines, and Compute Engine provide virtual machines, while Amazon S3, Azure Blob Storage, and Cloud Storage provide object storage. AWS IAM, Microsoft Entra ID, and Google Cloud IAM provide identity and access management. Amazon RDS, Azure SQL Database, and Cloud SQL provide managed SQL database services, while Amazon EKS, AKS, and GKE provide managed Kubernetes platforms.
