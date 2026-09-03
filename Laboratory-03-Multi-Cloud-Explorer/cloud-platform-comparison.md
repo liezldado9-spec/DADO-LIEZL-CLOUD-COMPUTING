@@ -16,7 +16,7 @@
 
 ### 1. Which provider offers the broadest range of services?
 
-**AWS** offers the broadest range of cloud services among the three major providers. It has a very large service portfolio covering computing, storage, databases, networking, security, analytics, and many other areas. :contentReference[oaicite:0]{index=0}
+**AWS** offers the broadest range of cloud services among the three major providers. It has a large service portfolio covering computing, storage, databases, networking, security, analytics, and many other areas.
 
 ### 2. Which integrates best with Microsoft technologies?
 
@@ -24,13 +24,11 @@
 
 ### 3. Which is strongest in AI and Kubernetes?
 
-**Google Cloud (GCP)** is particularly strong in AI, data analytics, and Kubernetes. Google Cloud provides services such as Google Kubernetes Engine (GKE), along with specialized AI and machine learning infrastructure. :contentReference[oaicite:1]{index=1}
+**Google Cloud (GCP)** is particularly strong in AI, data analytics, and Kubernetes. Google Cloud provides services such as Google Kubernetes Engine (GKE), along with specialized AI and machine learning infrastructure.
 
 ### 4. Which would you personally choose and why?
 
 **I would personally choose Google Cloud because it has strong capabilities in AI, data analytics, and Kubernetes.** As an IT student, I think these technologies are useful for learning modern application development and cloud computing, especially for projects involving data and artificial intelligence.
-
-
 
 # Match Cloud Services
 
