@@ -2,7 +2,7 @@
 
 ## Mission Overview
 
-This laboratory focuses on understanding the difference between Virtual Machines and Containers and learning the basic use of Docker. I used the KillerCoda Playground to verify Docker, download an Nginx image, run an Nginx container, test the web server, and practice basic container lifecycle commands.
+This lab is concerned with the understanding of the concept of the difference between Virtual Machines and Containers and about the basics of using Docker. I used the KillerCoda Playground for testing, to verify Docker, to download an Nginx image, to run an Nginx container, to run some test on the web server, and to practice some basic container lifecycle commands.
 
 ## Objectives
 
@@ -77,8 +77,8 @@ docker ps -a
 
 ## Skills Learned
 
-I learned how to use basic Docker commands, pull an image, create and run a container, map a host port to a container port, test a containerized web server, and manage the container lifecycle. I also learned how containers can be used to deploy applications in a lightweight environment.
+I have been introduced to the basic Docker commands, how to pull an image, create a container and start it, map a host port to a container port, test a containerized Web server, and manage the lifecycle of the container. I also got to know about how applications may be deployed in a lightweight environment using containers.
 
 ## Challenges Encountered
 
-One challenge I encountered was understanding how Docker commands work together when creating and managing a container. I also needed to understand the purpose of port mapping and how port 8080 on the host connects to port 80 inside the Nginx container. Using the terminal commands step-by-step helped me understand the process better.
+There was one tricky thing I had to get my head around that is understanding how to use Docker commands in conjunction with each other when creating and managing a container. Also, I wanted to know what port mapping is and what's the host port 8080 being mapped to in the Nginx container. It was obvious to me what was going on as I followed each of the terminal commands.
