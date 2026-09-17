@@ -4,11 +4,11 @@
 
 | Category | Virtual Machines | Containers |
 |---|---|---|
-| Architecture | Each VM includes a guest operating system running on virtualized hardware. | Containers share the host operating system while running isolated applications and their dependencies. |
-| Boot Time | Usually takes minutes because a complete operating system needs to start. | Usually starts in seconds because there is no separate guest operating system to boot. |
-| Resource Efficiency | Heavier and requires more RAM and storage because each VM includes a guest OS. | Lightweight and uses fewer resources because containers share the host OS. |
-| Isolation Level | Provides hardware-level virtualization and stronger separation between virtual machines. | Provides process-level isolation while sharing the host operating system. |
+| Architecture |  A guest operating system is on virtualized hardware for each VM. | Containers are able to use the host operating system and are used to run isolated applications and their dependencies. |
+| Boot Time | Typically takes minutes since an entire operating system must be brought up and running. | Typically begins as soon as the computer turns on, since there is no operating system to boot when operating as a guest. |
+| Resource Efficiency | Heavier and takes more RAM and storage since each VM contains a guest OS. | Lightweight and less resource intensive due to the sharing of the host OS. |
+| Isolation Level | Supports virtualization at a lower level of stack and greater separation of virtual machines. | Shares host operating system, provides process level isolation.  |
 
 ## Summary
 
-Containers can be useful for web applications because they are lightweight and can start much faster than traditional Virtual Machines. Unlike VMs, containers do not need a complete guest operating system for every application. This can help reduce resource usage and make application deployment faster. For web applications that need quick deployment and efficient resource use, containerization is an approach worth considering.
+Web applications can benefit from the use of containers as they are light and can be initiated much faster than a traditional Virtual Machine. Containers don't require a full guest operating system for each app, unlike VMs. This can help to lower the use of resources and speed up the deployment of applications. If your web app requires swift deployment and optimized resource usage, then you should consider using containers.
