@@ -8,5 +8,4 @@
 
 ## Why Object Storage is Best for the Client
 
-Object Storage is a good choice for the photo-sharing application because it is designed to store large amounts of unstructured data such as images. It can also organize files using buckets and is suitable for applications that need to store many user-uploaded photos.
-
+The photo-sharing application is a good use case for Object Storage, which is optimized for storing large quantities of unstructured data, like images. It can also sort files with buckets, and it can be used for applications that require to store numerous photos uploaded by users.
