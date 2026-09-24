@@ -21,7 +21,6 @@ In this laboratory activity, I deployed an S3-compatible object storage server u
 * MinIO
 * GitHub
 * Web Browser
-
 ## Skills Learned
 
 * Using Docker to deploy a cloud service.
