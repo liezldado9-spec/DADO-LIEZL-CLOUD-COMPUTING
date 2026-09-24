@@ -1,12 +1,11 @@
-# Mission Reflection
+# Reflection
 
-Object storage is better suited for storing millions of photos because it is designed for large amounts of unstructured data such as images, videos, and backups. It stores data as objects inside buckets, making it suitable for a photo-sharing application with many uploaded files. Compared with traditional block storage, object storage is easier to use for this type of data.
+Object storage is more appropriate for storing a large volume of unstructured data like photos, video files, backups, etc., where millions of photos are stored, as it is designed for use with large amounts of data. It stores the data as objects contained in each bucket, which would be appropriate for a photo sharing app with numerous uploaded photos. Object storage is easier to work with for this type of data than block storage.
 
-Docker made it easier to deploy the MinIO storage server because I only needed to run a Docker command instead of manually installing all the required software. The command downloaded the MinIO image, created the container, configured the ports, and set the administrator credentials. This made the deployment faster and easier to manage.
+I only had to run one command in Docker to get the MinIO storage server running as compared to installing all the software I needed to get it running manually. The command downloaded the MinIO image, created the container and configured the ports and admin credentials. This enabled deployment to be faster, easier and more manageable.
 
-A bucket is a container used to organize objects in cloud object storage. In this activity, I created a bucket named `client-photos`, which was used to store the test file that I uploaded through the MinIO Web Console.
+A bucket is a storage container within cloud object storage to store objects. For this activity, I had created a bucket called client-photos to store the test file that I uploaded using the MinIO Web Console.
 
-Large enterprise companies can protect their object storage data by keeping backups and copies of their data in different locations. They can also use replication so that another copy of the data is available if a physical server crashes. These methods help prevent important data from being permanently lost.
+Large enterprise companies can safeguard their data in object storage by storing copies of the data in different locations and keeping backups. They can also replicate them so that there is a backup if the physical server fails. These techniques can serve as a safeguard to ensure vital information is not lost forever.
 
-My confidence in navigating the Linux command line is growing because I was able to run Docker commands and check the status of my MinIO container. I also learned how to use commands such as `docker ps` and `docker logs` to check whether a service is working. This activity helped me understand how Linux, Docker, and cloud object storage work together.
-
+I'm getting more confident using the Linux command line since I could run the Docker commands and check the status of my MinIO container. I also learnt to use commands like `docker ps` and `docker logs` to see if the service is running or not. This activity was helpful in understanding the interdependency of Linux, Docker and cloud object storage.
