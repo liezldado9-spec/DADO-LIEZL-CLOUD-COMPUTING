@@ -28,4 +28,3 @@ The `-e` flags set environment variables for the MinIO container.
 ## Result
 
 MinIO was successfully deployed using Docker. The Web Console was accessed through port 9001, the `client-photos` bucket was created, and a test file was uploaded successfully.
-
